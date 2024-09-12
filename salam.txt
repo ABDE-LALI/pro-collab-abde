@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 arbi manik antigit ma60twit 1002 tikiouin
+=======
+arbi manik antigit ma60twit 1002
+idaoukazzou
+>>>>>>> 7647640c531988550dbedeeb9c4c8c3f1ab514f5
